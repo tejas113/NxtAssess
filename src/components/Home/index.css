@@ -1,0 +1,89 @@
+.headerEdit {
+  width: 100vw;
+  height: 88px;
+  gap: 0px;
+  opacity: 0px;
+  background: rgba(38, 56, 104, 1);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.ff {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnEdit {
+  width: Hug (86px) px;
+  height: Hug (40px) px;
+  padding: 12px 24px 12px 24px;
+  gap: 8px;
+  border-radius: 8px 0px 0px 0px;
+  border: 2px 0px 0px 0px;
+  opacity: 0px;
+  border: 2px solid rgba(241, 245, 249, 1);
+  border-radius: 10px;
+  background: rgba(38, 56, 104, 1);
+  color: white;
+}
+
+.mainCont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+.instructionCard {
+  width: 631px;
+  height: 566px;
+  top: 273px;
+  left: 96px;
+  gap: 0px;
+  opacity: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 4px 16px 0px rgba(123, 135, 148, 0.16);
+  padding-left: 75px;
+}
+
+.a1 {
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 37.5px;
+  text-align: left;
+  color: rgba(22, 70, 135, 1);
+}
+
+.a {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28.13px;
+  text-align: left;
+  color: rgba(73, 99, 135, 1);
+}
+
+.btnEdit {
+  width: Hug (171px) px;
+  height: Hug (44px) px;
+  top: 747px;
+  left: 144px;
+  padding: 8px 16px 8px 16px;
+  gap: 8px;
+  border-radius: 4px 0px 0px 0px;
+  opacity: 0px;
+  background: rgba(22, 70, 135, 1);
+  border-radius: 10px;
+  border-width: 0px;
+}
